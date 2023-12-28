@@ -12,4 +12,4 @@ Assess the feasibility within available resources(time, budget, skills).
 Analyze dependencies on other features or tasks.
 
 # Prioritization Methods
-Utilize frameworks like MoSCow, Eisenhower Matrix, or Weighted Scoring.
+Utilize frameworks like MoSCow, Eisenhower Matrix, or Weighted Scoring
